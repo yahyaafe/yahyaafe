@@ -16,7 +16,7 @@ Python · SQL · Pandas · NumPy · scikit-learn · TensorFlow/PyTorch · NLP ·
 
 - [Blind Assistant](https://github.com/yahyaafe/blind-assistant) — accessibility prototype using YOLO, OCR, FastAPI and voice guidance.
 - [Smart Irrigation](https://github.com/yahyaafe/SMART_IRRIG) — machine learning and MLOps for irrigation prediction.
-- [UniAssist AI](https://github.com/yahyaafe/IA_ASSIST) — local multilingual RAG assistant with FAISS and Ollama.
+- [UniAssist AI](https://github.com/yahyaafe/IA_ASSIST) — assistant universitaire local pour la FSSM, avec RAG, FAISS et Ollama.
 - [Internet Radar](https://github.com/yahyaafe/internet-radar) — local-first dashboard for AI and technology trend intelligence.
 - [CV Offre Matching](https://github.com/yahyaafe/cv-offre-matching) — French NLP matching between CVs and job offers.
 - [Kafka Fraud Detection](https://github.com/yahyaafe/kafka-fraud-detection) — real-time streaming and fraud-detection pipeline.
